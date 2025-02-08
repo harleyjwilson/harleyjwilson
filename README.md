@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Harley Wilson
+# Hi, I'm Harley Wilson
 
 I'm a Software Engineer at SecDim, based in Perth, Western Australia. I recently completed my Bachelor of Computing (Software Engineering) after transitioning into tech from a nine-year career as a Police Officer.
 
