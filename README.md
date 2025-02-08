@@ -1,6 +1,11 @@
-### Hi there 👋, I'm Harley Wilson
+# Hi there 👋, I'm Harley Wilson
 
-I'm Harley from Australia, and I am just starting my journey in programming. I'm studying a Bachelor of Computing (Software Engineering) at Curtin University.
+I'm a Software Engineer at SecDim, based in Perth, Western Australia. I recently completed my Bachelor of Computing (Software Engineering) after transitioning into tech from a nine-year career as a Police Officer.
 
-Skills: Java / Python / C / MySQL, HTML / CSS / Javascript  
-Technologies: JUnit / Mockito / Gradle / TailwindCSS / SCSS
+Beyond coding, I'm a husband, father-to-be, dog owner, reader, and Brazilian Jiu-Jitsu (BJJ) practitioner.
+
+## Connect with Me
+
+- [Website](https://harleyjwilson.com)
+- [LinkedIn](https://www.linkedin.com/in/harleyjwilson)
+- [GitHub](https://github.com/harleyjwilson/)
